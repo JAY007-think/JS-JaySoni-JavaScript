@@ -56,3 +56,7 @@ console.log(x>y || x==5)
 console.log(x>y || x!=6)
 console.log(!false)
 console.log(!true)
+
+// 5. ternary operator
+marks = 12
+console.log("you are",marks>33?"pass":"Fail")
